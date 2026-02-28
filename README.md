@@ -1,1 +1,2 @@
 # repoB
+описание repoB
